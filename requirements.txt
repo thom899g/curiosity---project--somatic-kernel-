@@ -1,0 +1,16 @@
+# Core Dependencies
+ccxt==4.2.85
+firebase-admin==6.6.0
+python-dotenv==1.0.0
+pandas==2.2.1
+numpy==1.26.4
+requests==2.31.0
+
+# Logging & Monitoring
+structlog==24.1.0
+watchdog==4.0.0
+
+# Development
+black==24.3.0
+mypy==1.8.0
+pytest==8.0.0
